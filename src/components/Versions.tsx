@@ -1,11 +1,8 @@
 import Image from 'next/image'
 import React from 'react';
-import { FaLongArrowAltRight } from "react-icons/fa";
-import { MdAccountCircle } from "react-icons/md";
 import nextjs1 from "../../public/nextjs1.jpg"
 import nextjs2 from "../../public/NEXTJS2.jpg"
 import nextjs3 from "../../public/nextjs3.jpg"
-import nextjs4 from "../../public/nextjs4.jpg"
 import nextsetup from "../../public/nextsetup.jpg"
 import acc from "../../public/acc.jpg"
 import Link from 'next/link';
