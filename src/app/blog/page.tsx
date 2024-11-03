@@ -15,7 +15,6 @@ import nextjs12 from "../../../public/nextjs12.jpg"
 import nextjs13 from "../../../public/nextjs13.jpg"
 import nextjs14 from "../../../public/nextjs14.jpg"
 import nextjs15 from "../../../public/next15.jpg"
-import imgg from "../../../public/imgg.jpg"
 import nextsetup from "../../../public/nextsetup.jpg"
 import acc from "../../../public/acc.jpg"
 import Link from 'next/link';
