@@ -1,4 +1,4 @@
-import Image from 'next/image''
+import Image from 'next/image'
 import React from 'react'
 import nextjs6 from "../../../../public/nextjs6.jpg"
 import { MdAccountCircle } from "react-icons/md";
