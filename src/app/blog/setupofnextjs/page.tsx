@@ -93,9 +93,7 @@ const Setup = () => {
         <h1 className='scroll-m-20 border-b lg:pb-2 lg:text-2xl text-xl font-semibold tracking-tight first:mt-0 mt-6 mb-3'>Step 7: Deploy Your Project (Bonus)</h1>
         <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Once you're ready to share your project, you can deploy it easily on Vercel, which is also created by the Next.js team. Go to vercel.com, sign up, and follow the steps to deploy your project directly from GitHub.</p>
         </div>
-
     </div>
   )
 }
-
-export default Setup
+export default Setup;
