@@ -1,6 +1,5 @@
 import Hero from "@/components/Hero";
 import Latest from "@/components/Latest";
-import Nav from "@/components/Nav";
 // import Setup from "@/components/Setup";
 import Versions from "@/components/Versions";
 
