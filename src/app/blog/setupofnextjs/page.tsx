@@ -6,14 +6,14 @@ const Setup = () => {
         <h1 className="text-3xl lg:mb-[50px] font-extrabold text-center text-myverydarkpink dark:text-white md:text-4xl lg:text-5xl text-transparent bg-clip-text bg-gradient-to-r to-gray-700 from-black">Setup Of NextJS</h1>
         <div className='lg:w-[800px] px-9 lg:px-12 lg:ml-72'>
         <h1 className='text-2xl lg:mb-2 font-extrabold text-center text-myverydarkpink dark:text-white md:text-3xl lg:text-4xl text-black '>How to Set Up a Next.js Project: Step-by-Step Guide</h1>
-        <p className='leading-7 [&:not(:first-child)]:mt-6 mb-3'>Next.js is a powerful React framework for building fast and optimized web applications. Setting it up is simple, and I'll guide you through it step by step.</p>
+        <p className='leading-7 [&:not(:first-child)]:mt-6 mb-3'>Next.js is a powerful React framework for building fast and optimized web applications. Setting it up is simple, and Ill guide you through it step by step.</p>
         <h1 className='scroll-m-20 border-b lg:pb-2 lg:text-2xl text-xl font-semibold tracking-tight first:mt-0'>Step 1: Install Node.js and npm</h1>
         <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-3'>Before starting with Next.js, make sure you have Node.js and npm (Node Package Manager) installed. You can check by running these commands in your terminal:</p>
         <pre className="bg-black lg:w-[400px] text-green-400 p-4 rounded-md lg:text-[16px] overflow-x-auto">
         <code>node -v</code> < br/>
         <code>npm -v</code>
         </pre>
-        <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>If you see version numbers, you're ready to go! If not, download and install Node.js.</p>
+        <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>If you see version numbers, youre ready to go! If not, download and install Node.js.</p>
         <h1 className='scroll-m-20 border-b lg:pb-2 lg:text-2xl text-xl font-semibold tracking-tight first:mt-0'>Step 2: Create a New Next.js Project</h1>
         <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Next.js provides a command to set up a project with a default template. In your terminal, navigate to the folder where you want to create the project, then run:</p>
         <pre className="bg-black lg:w-[400px] text-green-400 p-4 rounded-md lg:text-[16px] overflow-x-auto">
@@ -59,7 +59,7 @@ const Setup = () => {
           }`}
         </code>
         </pre>
-        <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Now go to http://localhost:3000/about in your browser, and you should see your "About Us" page!</p>
+        <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Now go to http://localhost:3000/about in your browser, and you should see your About Us page!</p>
         <h1 className='scroll-m-20 border-b lg:pb-2 lg:text-2xl text-xl font-semibold tracking-tight first:mt-0 mt-6 mb-3'>Step 6: Add Tailwind CSS (Optional but Recommended)</h1>
         <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>For styling, Tailwind CSS is a great option with Next.js. Here’s how to set it up:</p>
         <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Install Tailwind:</p>
@@ -91,7 +91,7 @@ const Setup = () => {
         </pre>
         <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Now you can start using Tailwind classes in your Next.js project!</p>
         <h1 className='scroll-m-20 border-b lg:pb-2 lg:text-2xl text-xl font-semibold tracking-tight first:mt-0 mt-6 mb-3'>Step 7: Deploy Your Project (Bonus)</h1>
-        <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Once you're ready to share your project, you can deploy it easily on Vercel, which is also created by the Next.js team. Go to vercel.com, sign up, and follow the steps to deploy your project directly from GitHub.</p>
+        <p className='lg:leading-7 lg:text-[16px] text-[12px] lg:[&:not(:first-child)]:mt-6 mb-'>Once youre ready to share your project, you can deploy it easily on Vercel, which is also created by the Next.js team. Go to vercel.com, sign up, and follow the steps to deploy your project directly from GitHub.</p>
         </div>
     </div>
   )
