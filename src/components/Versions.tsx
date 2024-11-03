@@ -9,7 +9,7 @@ import Link from 'next/link';
 const Versions = () => {
   return (
    <div>
-    <h1 className="text-3xl mb-2 font-extrabold text-center text-myverydarkpink dark:text-white md:text-4xl lg:text-5xl text-transparent bg-clip-text bg-gradient-to-r to-gray-700 from-black">Blog</h1> 
+    <h1 className="text-3xl mb-2 font-extrabold text-center  dark:text-white md:text-4xl lg:text-5xl text-transparent bg-clip-text bg-gradient-to-r to-gray-700 from-black">Blog</h1> 
     <div>
     <section className="text-gray-600 body-font">
   <div className="container px-5 py-24 mx-auto">
