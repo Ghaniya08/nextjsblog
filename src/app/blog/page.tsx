@@ -95,7 +95,7 @@ const Versions = () => {
       </div>
 {/* 4 */}
       <div className="lg:w-1/4 md:w-1/2 p-4 w-full ">
-      <Link href={"/blog/nestjs4"}>
+      <Link href={"/blog/nextjs4"}>
       <div className="block relative h-48 overflow-hidden rounded-lg hover:scale-105 hover:duration-500">
             <Image src={nextjs4} alt=" " className=" rounded-lg w-[330px] h-[230px]  " width={0} height={0}/>
         </div>
